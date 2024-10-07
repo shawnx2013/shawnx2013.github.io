@@ -1,0 +1,14 @@
+.experience {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.row {
+  flex-wrap: nowrap;
+}
+
+.company-name {
+  font-weight: 400;
+  opacity: 0.8;
+}
